@@ -1,4 +1,4 @@
-# Python Veri Analizi Pratikleri
+# 🐍 Python Veri Analizi Pratikleri
 
 Bu proje, Python dilini ve veri analiz kütüphanelerini (özellikle NumPy ve pandas) öğrenme sürecimde yaptığım temel pratikleri içermektedir. 
 
